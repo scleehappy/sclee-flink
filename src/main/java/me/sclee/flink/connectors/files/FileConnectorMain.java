@@ -11,6 +11,7 @@ import org.apache.flink.core.fs.Path;
 
 public class FileConnectorMain {
 
+
     private static final String bucket = "files/sample_file.txt";
 
     public static void main(String[] args) throws Exception {
